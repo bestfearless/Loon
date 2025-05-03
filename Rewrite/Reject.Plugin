@@ -1,6 +1,6 @@
 #!name= Reject
 #!desc= 常用app去广告
-#!icon= https://github.com/sooyaaabo/Loon/blob/main/Icon/Other-Icon/AdReject.png
+#!icon= AdReject.png
 
 [rule]
 # 斗鱼

@@ -2,3 +2,7 @@
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
+
+# geoip
+geoip, cn
+

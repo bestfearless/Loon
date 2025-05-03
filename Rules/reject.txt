@@ -1,0 +1,24 @@
+# 测速网
+DOMAIN, forge.speedtest.cn, reject
+# 阿里
+DOMAIN, gw.alicdn.com, reject
+DOMAIN, hudong.alicdn.com, reject
+DOMAIN, unidesk.alicdn.com, reject
+DOMAIN, heic.alicdn.com, reject
+DOMAIN, ossgw.alicdn.com, reject
+# 美团
+DOMAIN, flowplus.meituan.net, reject
+# 拼多多
+DOMAIN, commimg.pddpic.com, reject
+# 12306
+DOMAIN, ad.12306.cn, reject
+# 腾讯
+DOMAIN, adsmind.ugdtimg.com, reject
+DOMAIN, ugd.gtimg.com, reject
+DOMAIN, pgdt.ugdtimg.com, reject
+DOMAIN, pgdt.gtimg.cn, reject
+DOMAIN, qkcdn6-media.tencentmusic.com, reject
+DOMAIN, wxsmsdy.video.qq.com, reject
+DOMAIN- SUFFIX, wxs.qq.com, reject
+# 谷歌广告
+DOMAIN- SUFFIX, doubleclick-cn.net, reject

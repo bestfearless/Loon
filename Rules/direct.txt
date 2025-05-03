@@ -4,8 +4,5 @@ DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 # 腾讯
 DOMAIN-SUFFIX, qq.com
-ip-cidr, 112.64.0.0/11, no-resolve
-ip-cidr, 157.255.176.0/20, no-resolve
-ip-cidr, 157.148.59.0/24, no-resolve
 # geoip
 geoip, cn

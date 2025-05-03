@@ -1,11 +1,11 @@
 #!name= Reject
 #!desc= 常用app去广告
-#!icon= AdReject.png
+#!icon= https://github.com/sooyaaabo/Loon/raw/main/Icon/Other-Icon/AdReject.png
 
 [rule]
 # 斗鱼
-host, business.msstatic.com, reject
-host, cdnfile1.msstatic.com, reject
+DOMAIN, business.msstatic.com, reject
+DOMAIN, cdnfile1.msstatic.com, reject
 
 [rewrite]
 # 平安好车主

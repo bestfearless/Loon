@@ -1,0 +1,2 @@
+# apple邮箱
+DOMAIN, p30-imap.mail.me.com

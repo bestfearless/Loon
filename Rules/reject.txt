@@ -1,24 +1,24 @@
 # 测速网
-DOMAIN, forge.speedtest.cn, reject
+DOMAIN, forge.speedtest.cn
 # 阿里
-DOMAIN, gw.alicdn.com, reject
-DOMAIN, hudong.alicdn.com, reject
-DOMAIN, unidesk.alicdn.com, reject
-DOMAIN, heic.alicdn.com, reject
-DOMAIN, ossgw.alicdn.com, reject
+DOMAIN, gw.alicdn.com
+DOMAIN, hudong.alicdn.com
+DOMAIN, unidesk.alicdn.com
+DOMAIN, heic.alicdn.com
+DOMAIN, ossgw.alicdn.com
 # 美团
-DOMAIN, flowplus.meituan.net, reject
+DOMAIN, flowplus.meituan.net
 # 拼多多
-DOMAIN, commimg.pddpic.com, reject
+DOMAIN, commimg.pddpic.com
 # 12306
-DOMAIN, ad.12306.cn, reject
+DOMAIN, ad.12306.cn
 # 腾讯
-DOMAIN, adsmind.ugdtimg.com, reject
-DOMAIN, ugd.gtimg.com, reject
-DOMAIN, pgdt.ugdtimg.com, reject
-DOMAIN, pgdt.gtimg.cn, reject
-DOMAIN, qkcdn6-media.tencentmusic.com, reject
-DOMAIN, wxsmsdy.video.qq.com, reject
-DOMAIN- SUFFIX, wxs.qq.com, reject
+DOMAIN, adsmind.ugdtimg.com
+DOMAIN, ugd.gtimg.com
+DOMAIN, pgdt.ugdtimg.com
+DOMAIN, pgdt.gtimg.cn
+DOMAIN, qkcdn6-media.tencentmusic.com
+DOMAIN, wxsmsdy.video.qq.com
+DOMAIN- SUFFIX, wxs.qq.com
 # 谷歌广告
-DOMAIN- SUFFIX, doubleclick-cn.net, reject
+DOMAIN- SUFFIX, doubleclick-cn.net

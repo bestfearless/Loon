@@ -1,5 +1,7 @@
 # 测速网
 DOMAIN, forge.speedtest.cn
+# IT之家
+DOMAIN,ss1.sinaimg.cn
 # 阿里
 DOMAIN, gw.alicdn.com
 DOMAIN, hudong.alicdn.com

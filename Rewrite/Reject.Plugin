@@ -30,7 +30,7 @@ https?:\/\/helper\.2bulu\.com\/(greenPea\/queryTasks|proSpecial\/allData|saveSpl
 # 12123
 ^https?:\/\/static\.122\.gov\.cn\/.*\.jpg - reject-200
 # 斗鱼
-^https?:\/\/sta-op\.douyucdn\.cn\/(nggsys|adxdsp|dylamr) - reject-200
+^https?:\/\/sta-op\.douyucdn\.cn\/(nggsys|adxdsp|dylamr|douyu-vrp-admin) - reject-200
 # 饿了么
 ^https:\/\/cube\.elemecdn\.com\/.*\.(jpe?g|png|webp)\?(.*&)?w_[1-9]\d{3},h_[1-9]\d{3} - reject-200
 
